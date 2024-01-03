@@ -1,0 +1,224 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UT+F-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Docplanner</title>
+    <link rel="stylesheet" href="point.css">
+    <link rel="shortcut icon" href="Intro1.png">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap" rel="stylesheet">
+    <script src="https://kit.fontawesome.com/618069c0a3.js" crossorigin="anonymous" defer></script>
+</head> 
+<body>
+    <nav class="nav">
+        <img src="nav.svg" alt="" class="logo">
+        <ul class="ul">
+            <li class="li">About us</li>
+            <li class="li">Carrer</li>
+            <li class="li">Departments
+                <ul class="ul-2">
+                    <li class="li-2">HR & more</li>
+                    <li class="li-2">Marketing & PR</li>
+                    <li class="li-2">IT,Product,Data</li>
+                    <li class="li-2">Finance & Administration</li>
+                </ul>
+            </li>
+        </ul>
+    </nav>
+    <div class="intro">
+        <img src="intro.png" alt=""><br><br><br>
+        <h2 class="h2">Making the healthcare experience more human</h2><br><br><br>
+        <div class="paras-1">
+            <p>We want patients to find the perfect doctor and book an appointment in the most easy way.
+                The patient journey should be enjoyable, and that's why we are always next to them: to help them find
+                the best possible care. Anytime, anywhere.</p>
+            <p>We also help doctors to better manage their practice and build their online reputation. With our
+                integrated end-to-end solution,
+                doctors are able not only to improve their online presence, but also to devote their time to what really
+                matters: their patients.</p>
+        </div>
+    </div>
+    <div class="boxes">
+        <div class="box" style="background-color: rgb(79, 213, 218)">
+            <i class="fa-solid fa-users"></i><br><br>
+            <h3>For patients</h3><br>
+            <p>Find a doctor, book a visit and solve any health-related doubt</p><br><br>
+            <select name="" id="" class="select">
+                <option value="" selected>Choose country</option>
+                <option value="">1</option>
+                <option value="">2</option>
+            </select>
+        </div>
+        <div class="box" style="background-color: rgb(32, 115, 240);">
+            <i class="fa-solid fa-user-nurse"></i><br><br>
+            <h3>For doctors</h3><br>
+            <p>Save time managing visits and cut no-shows by half</p><br><br>
+            <select name="" id="" class="select">
+                <option value="" selected>Choose country</option>
+                <option value="">1</option>
+                <option value="">2</option>
+            </select>
+        </div>
+        <div class="box" style="background-color: rgb(20, 20, 20)">
+            <i class="fa-solid fa-hospital"></i><br><br>
+            <h3>For clinics</h3><br>
+            <p>Deliver an exceptional patient experience in your clinic</p><br><br>
+            <select name="" id="" class="select">
+                <option value="" selected>Choose country</option>
+                <option value="">1</option>
+                <option value="">2</option>
+            </select>
+        </div>
+    </div>
+    <div class="links">
+        <p>We are a global <br> company <br> with local culture</p>
+        <ul class="link">
+            <li><i class="fa-solid fa-circle-info"></i>jameda</li>
+            <li><i class="fa-solid fa-circle-info"></i>jameda</li>
+            <li><i class="fa-solid fa-circle-info"></i>jameda</li>
+            <li><i class="fa-solid fa-circle-info"></i>jameda</li>
+            <li><i class="fa-solid fa-circle-info"></i>jameda</li>
+            <li><i class="fa-solid fa-circle-info"></i>jameda</li>
+            <li><i class="fa-solid fa-circle-info"></i>jameda</li>
+            <li><i class="fa-solid fa-circle-info"></i>jameda</li>
+            <li><i class="fa-solid fa-circle-info"></i>jameda</li>
+        </ul>
+    </div>
+    </div>
+    <section class="section">
+        <div class="stats-1">
+            <h2 style="font-size: 1.8rem; color: rgb(79, 213, 218); font-weight: 300;">The world's biggest <br>
+                healthcare platform</h2><br><br>
+            <p>We work from 9 offices all over the world, bringing Docplanner <br>
+                Group to life in 13 countries.</p><br><br><br>
+            <img src="Intro1.png" alt="" class="sec-img">
+        </div>
+        <div class="stats">
+            <div>
+                <div class="stat-1">
+                    <i class="fa-solid fa-flag" style="font-size: 2rem;"></i><br><br>
+                    <h2>Leader in 13 countries</h2><br>
+                    <p class="paras-2">Poland, Brazil, Mexico, Spain, Italy, <br>
+                        Germany, Turkey, Colombia, Czech <br>
+                        Republic, Portugal, Argentina, Peru and Chile</p>
+                </div>
+                <div class="stat-1">
+                    <i class="fa-solid fa-user-group" style="font-size: 2rem;"></i><br><br>
+                    <h2>90,000,000 <br>patients</h2><br>
+                    <p class="paras-2">visit our websites each month</p>
+                </div>
+            </div>
+            <div class="stats-2">
+                <div class="stat-2">
+                    <i class="fa-solid fa-calendar-check" style="font-size: 2rem;"></i><br><br>
+                    <h2>15,000,000 <br>appointments</h2><br>
+                    <p class="paras-2">booked last month</p>
+                </div>
+                <div class="stat-2">
+                    <i class="fa-solid fa-people-group" style="font-size: 2rem;"></i><br><br>
+                    <h2>210,000 <br>active doctors</h2><br>
+                    <p class="paras-2">trust our solutions</p>
+                </div>
+            </div>
+        </div>
+    </section>
+    <div class="para">
+        <h2 style="font-size: 1.8rem; color: rgb(79, 213, 218); font-weight: 300;">
+            Improve the lives of millions. <br>
+            Change yours forever.
+        </h2><br>
+        <p style="color: rgb(161, 161, 161);">
+            More than 2800 team mates share our same vision, goals and passion. <br>
+            With offices in Warsaw, Barcelona, Munich, Istanbul, Rome, Rio, Bologna,<br>
+            Mexico City and Curitiba, our search for great talent never stops.
+        </p>
+    </div>
+    <div class="countries">
+        <div class="country">
+            <img src="warsaw.png" alt="">
+            <div class="def">
+                <h3>Warsaw</h3>
+                <button class="coun-button"><b>SEE OPENINGS</b></button>
+            </div>
+        </div>
+        <div class="country">
+            <img src="barcelona.png" alt="">
+            <div class="def">
+                <h3>Barcelona</h3>
+                <button class="coun-button"><b>SEE OPENINGS</b></button>
+            </div>
+        </div>
+        <div class="country">
+            <img src="munich.png" alt="">
+            <div class="def">
+                <h3>Munich</h3>
+                <button class="coun-button"><b>SEE OPENINGS</b></button>
+            </div>
+        </div>
+        <div class="country">
+            <img src="istanbul.png" alt="">
+            <div class="def">
+                <h3>Istanbul</h3>
+                <button class="coun-button"><b>SEE OPENINGS</b></button>
+            </div>
+        </div>
+        <div class="country">
+            <img src="rome.png" alt="">
+            <div class="def">
+                <h3>Rome</h3>
+                <button class="coun-button"><b>SEE OPENINGS</b></button>
+            </div>
+        </div>
+        <div class="country">
+            <img src="bologna.png" alt="">
+            <div class="def">
+                <h3>Bologna</h3>
+                <button class="coun-button"><b>SEE OPENINGS</b></button>
+            </div>
+        </div>
+        <div class="country">
+            <img src="curitiba.png" alt="">
+            <div class="def">
+                <h3>Curitiba</h3>
+                <button class="coun-button"><b>SEE OPENINGS</b></button>
+            </div>
+        </div>
+        <div class="country">
+            <img src="rio-janeiro.png" alt="">
+            <div class="def">
+                <h3>Rio De Janeiro</h3>
+                <button class="coun-button"><b>SEE OPENINGS</b></button>
+            </div>
+        </div>
+        <div class="country">
+            <img src="mexico-city.png" alt="">
+            <div class="def">
+                <h3>Mexico City</h3>
+                <button class="coun-button"><b>SEE OPENINGS</b></button>
+            </div>
+        </div>
+        <div class="country">
+            <img src="bogota.png" alt="" style="height: 280px; width: 280px;">
+            <div class="def">
+                <h3>Bogota</h3>
+                <button class="coun-button">
+                    <h4>SEE OPENINGS</h4>
+                </button>
+            </div>
+        </div>
+    </div>
+    <footer>
+        <h2>Sounds interesting? Join us now!</h2><br>
+        <button>SEE ALL CURRENT OPENINGS</button><br><br><br>
+        <hr><br>
+        <p>We are leaders in 13 countries: Poland, Turkey, Spain, Italy, Germany, Czech Republic, Portugal, Mexico,
+            Colombia, Brazil, Argentina, Peru and Chile
+            <br><a href="S02.html">www.docplanner.com</a> © 2023
+        </p>
+    </footer>
+</body>
+
+</html>
